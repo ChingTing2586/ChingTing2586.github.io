@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ChingTing2586.github.io/"/>
-  <updated>2021-01-16T10:11:49.372Z</updated>
+  <updated>2022-09-30T05:47:13.995Z</updated>
   <id>https://ChingTing2586.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>产业复兴 延续版  整合包介绍与下载</title>
+    <link href="https://ChingTing2586.github.io/2022/09/30/IREL/"/>
+    <id>https://ChingTing2586.github.io/2022/09/30/IREL/</id>
+    <published>2022-09-30T12:20:00.000Z</published>
+    <updated>2022-09-30T05:47:13.995Z</updated>
+    
+    <summary type="html">
+    
+      产业复兴-延续版——科技空岛农业休闲深度魔改整合包
+    
+    </summary>
+    
+      <category term="技术" scheme="https://ChingTing2586.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="产业复兴" scheme="https://ChingTing2586.github.io/tags/%E4%BA%A7%E4%B8%9A%E5%A4%8D%E5%85%B4/"/>
+    
+      <category term="整合包" scheme="https://ChingTing2586.github.io/tags/%E6%95%B4%E5%90%88%E5%8C%85/"/>
+    
+      <category term="魔改" scheme="https://ChingTing2586.github.io/tags/%E9%AD%94%E6%94%B9/"/>
+    
+      <category term="科技空岛" scheme="https://ChingTing2586.github.io/tags/%E7%A7%91%E6%8A%80%E7%A9%BA%E5%B2%9B/"/>
+    
+  </entry>
   
   <entry>
     <title>Psi 图形化编程模组  超简易傻瓜式指南</title>
@@ -58,9 +84,9 @@
     
       <category term="整合包" scheme="https://ChingTing2586.github.io/tags/%E6%95%B4%E5%90%88%E5%8C%85/"/>
     
-      <category term="服务器" scheme="https://ChingTing2586.github.io/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
-    
       <category term="魔改" scheme="https://ChingTing2586.github.io/tags/%E9%AD%94%E6%94%B9/"/>
+    
+      <category term="服务器" scheme="https://ChingTing2586.github.io/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
       <category term="视界" scheme="https://ChingTing2586.github.io/tags/%E8%A7%86%E7%95%8C/"/>
     
